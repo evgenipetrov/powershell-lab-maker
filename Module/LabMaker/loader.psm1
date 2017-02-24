@@ -8,4 +8,5 @@
 
 # LOADING ALL FUNCTION DEFINITIONS:
 
+. $PSScriptRoot\New-Lab.ps1
 . $PSScriptRoot\New-LabComputer.ps1
