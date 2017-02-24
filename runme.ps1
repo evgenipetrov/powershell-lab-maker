@@ -8,4 +8,4 @@ Import-Module -Name $name -Force -Verbose
 $inventoryFile = '{0}\inventory.csv' -f $PSScriptRoot
 
 # provision lab
-New-Lab -InventoryFile $inventoryFile
+New-Lab -InventoryFile $inventoryFile -Location 'e:\' -Name 'powershell'

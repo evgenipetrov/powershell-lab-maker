@@ -1,2 +1,2 @@
-GroupName	InternalNetwork	ExternalNetwork	LabComputerName	LabDomainName	InternalAddress	OperatingSystem
-PowerShell	Internal	External	DC	LAB.PRI	192.168.10.2	WS2012R2
+LabComputerName,LabDomainName,InternalNetAddress,OperatingSystem,InternalNetworkName,ExternalNetworkName
+DC,LAB.PRI,192.168.10.2,WS2012R2,Internal,External
